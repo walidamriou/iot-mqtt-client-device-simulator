@@ -51,7 +51,7 @@ Run the script from the command line:
 python main.py
 ```
 ### License
-IoT UUIDs Generator Tool © Walid Amriou  
+IoT MQTT Client Device Simulator © Walid Amriou  
 All rights reserved. No part of this software may be reproduced, distributed, or transmitted in any form without prior 
 written permission from the author.
 
